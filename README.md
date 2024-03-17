@@ -6,7 +6,7 @@ Motivated Junior Web Developer with a robust background in JavaScript, C++, HTML
 
 Skills:  HTML/CSS| JavaScript| AngularJS| PHP| MySQL| React.js | Node.js| and WordPress.
 
-- 🔭 I’m currently working on this page. 
+
 - 🌱 I’m currently learning React js and Next js 
 
 
