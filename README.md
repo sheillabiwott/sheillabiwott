@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sheilla
 #### Web developer
-![Web developer](https://media.licdn.com/dms/image/D4D16AQGxN3Y8LE_bEw/profile-displaybackgroundimage-shrink_350_1400/0/1700560186117?e=1716422400&v=beta&t=Bpyo0Nb6CCNW3FNwncLxTic1Qmu96Xh5XgMKp75avkY)
+
 
 Motivated Junior Web Developer with a robust background in JavaScript, C++, HTML, React Js, Python, and Java. Passionate about crafting intuitive UI&UX designs to enhance user engagement. Eager to join a startup environment where I can make a quick impact as part of a tight-knit team. Enthusiastic about continuous learning, growth, and making a positive impact through software development. 
 
